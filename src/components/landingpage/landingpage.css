@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.services-btn{
+    height:  90px; 
+    width: 300px;
+    border-radius: 50px;
+    font-size: 20px;
+    font-weight: 700;
+    background-color: rgb(200, 227, 245);
+    color: blue;
+    border: 0;
+}
+
+@font-face {
+    font-family: 'CharlieDisplay';
+    src: url('../fonts/charlie-display-3.ttf') format('truetype');
+  }
+.services-btn-on{
+    height:  90px; 
+    width: 300px;
+    border-radius: 50px;
+    font-size: 20px;
+    font-weight: 700;
+    background-color:blue;
+    color:white;
+    border: 0;
+}
+.topLeft {
+    position: 'absolute';
+    top: 0;
+    left: 0;
+    width: 150px;
+    height: 150px;
+  }
+  .topRight{
+    position: 'absolute';
+    top: 0;
+    right: 0;
+    width: 150px;
+    height: 150px;
+  }
+  .bottomLeft{
+    position: 'absolute';
+    bottom: 0;
+    left: 0;
+    width: 150px;
+    height: 150px;
+    padding-top: 340px;
+    padding-right: 2000px;
+  }
+  .bottomRight{
+    position: 'absolute';
+    bottom: 0;
+    right: 0;
+    width: 150px;
+    height: 150px;
+  }

@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+  /* padding-left: 16px; */
+  /* padding-right: 16px; */
+  font-family: 'CharlieDisplay';
+}
+@font-face {
+  font-family: 'CharlieDisplay';
+  src: url('./components/fonts/charlie-display-3.ttf') format('truetype');
+}
+

@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.customers{
+    background-color:
+              "background-image: linear-gradient(to bottom, #dce2ea, #c7d9e8, #afd1e4, #93cadd, #75c3d3);",
+}
+
+@font-face {
+    font-family: 'CharlieDisplay';
+    src: url('../fonts/charlie-display-3.ttf') format('truetype');
+  }
